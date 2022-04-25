@@ -18,7 +18,6 @@ public class ArrayManipulation {
         int[] arr = {1,2,3,4,5};
         System.out.println(Arrays.toString(reverseArray(arr)));
         System.out.println("Hello");
-        System.out.println("Test");
     }
     public static int[] squareEach(int[] arr){
         int[] back = new int[arr.length];
